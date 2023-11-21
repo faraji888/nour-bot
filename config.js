@@ -2,9 +2,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import { watchFile, unwatchFile, readFileSync } from 'fs'
 
-global.owner = 
+global.sudo = 
  [
-  ['+212605784394', 'NOUR MD', true]
+  ['212609737616', 'GBX - NARCISSIST!', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -35,22 +35,23 @@ global.APIKeys = { // APIKey Here
 ]
 
 // Sticker WM
-global.packname = `「 NOUR BOT BY NOUREDDINE 」`
-global.author = ''
+global.packname = `「 GBX - NARCISSIST - BOT MD 」`
+global.author = '
+#𝐆𝐁𝐗 /#/ 𝑵𝑨𝑹𝑪𝑰𝑺𝑺𝑰𝑺𝑻𝑰𝑪 !'
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'NOUR BOT - 2023'
-global.bott = 'Nour md'
-global.nomorown = '212605784394'
+global.me = 'GBX - NARCISSIST!'
+global.bott = '*GBX - MD*'
+global.nomorown = '212609737616'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\ninstagam.com/noureddine_ouafy'
-global.eror = '```404 ᴇʀʀᴏʀ```'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 ```PLEASE WAIT 1 SECONDS 🌹>``` ...```\https://instagram.com/faraji_ro7ani?utm_source=qr&igshid=OGIxMTE0OTdkZA==_'
+global.eror = '```404 ᴇʀʀᴏʀ !```'
 
 global.rpg = {
   emoticon(string) {
